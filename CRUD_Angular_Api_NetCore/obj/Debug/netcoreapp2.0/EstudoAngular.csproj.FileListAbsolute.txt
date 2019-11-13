@@ -1,0 +1,33 @@
+c:\_aspncore2\EstudoAngular\EstudoAngular\bin\Debug\netcoreapp2.0\EstudoAngular.deps.json
+c:\_aspncore2\EstudoAngular\EstudoAngular\bin\Debug\netcoreapp2.0\EstudoAngular.runtimeconfig.json
+c:\_aspncore2\EstudoAngular\EstudoAngular\bin\Debug\netcoreapp2.0\EstudoAngular.runtimeconfig.dev.json
+c:\_aspncore2\EstudoAngular\EstudoAngular\bin\Debug\netcoreapp2.0\EstudoAngular.dll
+c:\_aspncore2\EstudoAngular\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.csprojResolveAssemblyReference.cache
+c:\_aspncore2\EstudoAngular\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.csproj.CoreCompileInputs.cache
+c:\_aspncore2\EstudoAngular\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.AssemblyInfoInputs.cache
+c:\_aspncore2\EstudoAngular\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.AssemblyInfo.cs
+c:\_aspncore2\EstudoAngular\EstudoAngular\bin\Debug\netcoreapp2.0\EstudoAngular.pdb
+c:\_aspncore2\EstudoAngular\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.dll
+c:\_aspncore2\EstudoAngular\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.pdb
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular\EstudoAngular\bin\Debug\netcoreapp2.0\EstudoAngular.deps.json
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular\EstudoAngular\bin\Debug\netcoreapp2.0\EstudoAngular.runtimeconfig.json
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular\EstudoAngular\bin\Debug\netcoreapp2.0\EstudoAngular.runtimeconfig.dev.json
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular\EstudoAngular\bin\Debug\netcoreapp2.0\EstudoAngular.dll
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular\EstudoAngular\bin\Debug\netcoreapp2.0\EstudoAngular.pdb
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.csprojAssemblyReference.cache
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.csproj.CoreCompileInputs.cache
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.AssemblyInfoInputs.cache
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.AssemblyInfo.cs
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.dll
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.pdb
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular - Copia\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.csprojAssemblyReference.cache
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular - Copia\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.csproj.CoreCompileInputs.cache
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular - Copia\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.AssemblyInfoInputs.cache
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular - Copia\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.AssemblyInfo.cs
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular - Copia\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.dll
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular - Copia\EstudoAngular\obj\Debug\netcoreapp2.0\EstudoAngular.pdb
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular - Copia\EstudoAngular\bin\Debug\netcoreapp2.0\EstudoAngular.deps.json
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular - Copia\EstudoAngular\bin\Debug\netcoreapp2.0\EstudoAngular.runtimeconfig.json
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular - Copia\EstudoAngular\bin\Debug\netcoreapp2.0\EstudoAngular.runtimeconfig.dev.json
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular - Copia\EstudoAngular\bin\Debug\netcoreapp2.0\EstudoAngular.dll
+C:\Users\DEV01\Desktop\Modulo1\Modulo6_Angular\4_AspnCore_Angular_Cliente4\EstudoAngular - Copia\EstudoAngular\bin\Debug\netcoreapp2.0\EstudoAngular.pdb
